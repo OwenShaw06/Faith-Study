@@ -1,0 +1,14 @@
+{
+  "name": "Faith Study",
+  "short_name": "Faith Study",
+  "description": "A daily checklist and streak counter for the Faith Study Plan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f8ff",
+  "theme_color": "#1e6ff0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
